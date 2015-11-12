@@ -9,4 +9,10 @@ Live graphing of every function.
 ![](http://i.imgur.com/AaI9D2O.gif)
 
 
-NOTE: You will need to build and reference Easing.framework from [SwiftEasingFunctions](https://github.com/jf-rce/SwiftEasingFunctions) for this project to build.
+##Usage
+
+1. Build Easing.framework from [SwiftEasingFunctions](https://github.com/jf-rce/SwiftEasingFunctions).
+2. Open this project and add Easing.framework
+3. Add the containing folder of Easing.framework as a 'Framework Search Path' in this project's settings
+
+Easing.framework supports iOS 7+
